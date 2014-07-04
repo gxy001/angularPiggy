@@ -1,0 +1,11 @@
+﻿.red, .danger, .delete{
+    color: red;
+}
+
+.navy, .success{
+    color: navy;
+}
+
+[ng\:cloak],[ng-cloak],[data-ng-cloak],[x-ng-cloak],.ng-cloak,.x-ng-cloak,.ng-hide{
+    display:none !important;
+}
